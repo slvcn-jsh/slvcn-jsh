@@ -1,1 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img" aria-label="Public GitHub activity card awaiting first scheduled refresh"><title>Recent public GitHub activity — initial refresh pending</title><rect width="1000" height="220" rx="22" fill="#0b1b2b"/><rect x="1" y="1" width="998" height="218" rx="21" fill="none" stroke="#34536b"/><text x="35" y="60" font-family="Arial,Helvetica,sans-serif" font-weight="750" font-size="24" fill="#f0faff">PUBLIC ACTIVITY / LIVE REFRESH</text><text x="35" y="110" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="#a9c9d8">Awaiting first GitHub Actions refresh</text><text x="35" y="153" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#73e5cd">Updates weekly · public events only · no fabricated statistics</text><rect x="35" y="178" width="280" height="4" rx="2" fill="#73e5cd"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330" role="img" aria-label="Recent public GitHub event types">
+<title>Recent public GitHub activity — latest available events</title>
+<rect width="1000" height="330" rx="22" fill="#0b1b2b"/>
+<rect x="1" y="1" width="998" height="328" rx="21" fill="none" stroke="#34536b"/>
+<text x="32" y="48" fill="#eef9ff" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="750">PUBLIC ACTIVITY / RECENT EVENTS</text>
+<text x="32" y="78" fill="#a9c5d7" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="500">Based on the latest 22 public events returned by GitHub</text>
+<text x="32" y="130" fill="#c4dce9" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500">Push events</text>
+<rect x="290" y="112" width="410" height="21" rx="8" fill="#1b3447"/>
+<rect x="290" y="112" width="410" height="21" rx="8" fill="#73e5cd"/>
+<text x="722" y="130" fill="#f2fbff" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="750">15</text>
+<text x="32" y="177" fill="#c4dce9" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500">Pull request events</text>
+<rect x="290" y="159" width="410" height="21" rx="8" fill="#1b3447"/>
+<rect x="290" y="159" width="136" height="21" rx="8" fill="#87b9f7"/>
+<text x="722" y="177" fill="#f2fbff" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="750">5</text>
+<text x="32" y="224" fill="#c4dce9" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500">Issue events</text>
+<rect x="290" y="206" width="410" height="21" rx="8" fill="#1b3447"/>
+<rect x="290" y="206" width="0" height="21" rx="8" fill="#bca4ff"/>
+<text x="722" y="224" fill="#f2fbff" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="750">0</text>
+<text x="32" y="271" fill="#c4dce9" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="500">Other public events</text>
+<rect x="290" y="253" width="410" height="21" rx="8" fill="#1b3447"/>
+<rect x="290" y="253" width="54" height="21" rx="8" fill="#7799af"/>
+<text x="722" y="271" fill="#f2fbff" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="750">2</text>
+<text x="32" y="310" fill="#8caec1" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="500">Updated 2026-11-23 10:14 UTC  |  Public events only; not a contribution or commit count</text>
+</svg>
