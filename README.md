@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Joshua Salvacion 👋
 
-<!--
-**slvcn-jsh/slvcn-jsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Student | Android & Full-Stack Development
 
-Here are some ideas to get you started:
+I build practical software with a focus on **native Android development**, mobile applications, backend APIs, and thoughtful user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work spans Kotlin and Jetpack Compose, React Native, React, and backend services. I'm continuing to sharpen my software engineering skills through hands-on projects and preparing for internship opportunities.
+
+### 🛠️ Technologies
+
+- **Mobile:** Kotlin, Jetpack Compose, React Native, Expo, Room, SQLite
+- **Web:** React, TypeScript, Vite, Tailwind CSS
+- **Backend & data:** Python, FastAPI, Node.js, PostgreSQL, Prisma
+- **Tools & services:** Git, GitHub, Docker, Firebase, Supabase, Playwright, Sentry
+
+### 🚀 Selected Projects
+
+| Project | What it explores |
+| --- | --- |
+| **PCOSina** | Android wellness and meal-planning experience with a backend API |
+| **Barion** | Flashcards and study workflows built with React Native |
+| **FreshKeep** | Offline-first Android food inventory and expiration tracking |
+| **FocusLoop** | Android digital wellbeing and focus management |
+| **Procura** | Procurement requests, roles, and approval workflows |
+| **ResolveOps** | IT helpdesk ticketing and service workflows |
+
+**[Explore the full project case studies →](https://joshuasalvacion.dev)**
+
+### 📚 Currently exploring
+
+Android architecture, reliable backend systems, automated testing, maintainable code, and effective development workflows.
+
+### 🌐 Connect
+
+- **Portfolio:** [joshuasalvacion.dev](https://joshuasalvacion.dev)
+- **GitHub:** [@slvcn-jsh](https://github.com/slvcn-jsh)
+
+---
+
+*Thanks for stopping by!*
