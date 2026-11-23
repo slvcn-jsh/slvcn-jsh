@@ -65,8 +65,29 @@ The ideas I gravitate toward have something in common: they should remain useful
 </p>
 
 <div align="center">
-  <sub>Original conceptual illustrations, not live application screenshots. View the case studies for real project evidence, implementation details, and limitations.</sub>
+  <sub>The cards above are original conceptual illustrations. Below are actual project screenshots published with my portfolio.</sub>
 </div>
+
+<details open>
+<summary><strong>📱 View actual application screens — PCOSina, Barion & FocusLoop</strong></summary>
+
+<br />
+
+<p align="center">
+  <a href="https://joshuasalvacion.dev/projects/pcosina"><img src="https://raw.githubusercontent.com/slvcn-jsh/joshua-portfolio/main/public/images/previews/pcosina-plan-480.webp" width="31%" alt="Actual PCOSina meal-planning application screen from portfolio." /></a>
+  <a href="https://joshuasalvacion.dev/projects/barion"><img src="https://raw.githubusercontent.com/slvcn-jsh/joshua-portfolio/main/public/images/previews/barion-current-home-480.webp" width="31%" alt="Actual Barion study application home screen from portfolio." /></a>
+  <a href="https://joshuasalvacion.dev/projects/focusloop"><img src="https://raw.githubusercontent.com/slvcn-jsh/joshua-portfolio/main/public/images/previews/focusloop-home-480.webp" width="31%" alt="Actual FocusLoop focus management home screen from portfolio." /></a>
+</p>
+
+<p align="center">
+  <a href="https://joshuasalvacion.dev/projects/pcosina"><strong>PCOSina</strong></a> &nbsp; · &nbsp;
+  <a href="https://joshuasalvacion.dev/projects/barion"><strong>Barion</strong></a> &nbsp; · &nbsp;
+  <a href="https://joshuasalvacion.dev/projects/focusloop"><strong>FocusLoop</strong></a>
+</p>
+
+<sub>These are existing portfolio screenshot assets, not synthetic mockups. Open each case study for full-resolution views and context.</sub>
+
+</details>
 
 <details>
 <summary><strong>🔍 Open the engineering field notes — what makes each project interesting?</strong></summary>
