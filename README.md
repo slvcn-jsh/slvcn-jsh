@@ -1,84 +1,154 @@
-<!-- GitHub displays this README automatically at github.com/slvcn-jsh. -->
+<a id="top"></a>
+
 <div align="center">
 
-# Joshua Salvacion
+<a href="https://joshuasalvacion.dev" title="Explore Joshua's portfolio">
+  <img src="./assets/hero.svg" width="100%" alt="Joshua Salvacion — Software Engineering, Android and mobile development. Original midnight-blue engineering blueprint with Android interface illustration." />
+</a>
 
-**Software Engineering · Android & Mobile Development · Backend Systems**
+**Fourth-year BS Computer Science · Major in Software Engineering · FEU Institute of Technology**
 
-Fourth-year **BS Computer Science (Software Engineering)** student at **FEU Institute of Technology**, Philippines.
+<a href="https://joshuasalvacion.dev"><img alt="Portfolio" src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-0d2639?style=for-the-badge&labelColor=0d2639&color=62cdbb" /></a>
+<a href="https://joshuasalvacion.dev/resume"><img alt="Resume" src="https://img.shields.io/badge/VIEW_RESUME-152a40?style=for-the-badge&color=81b3ef" /></a>
+<a href="https://www.linkedin.com/in/joshua-salvacion/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-152a40?style=for-the-badge&color=9fa7f5" /></a>
+<a href="https://joshuasalvacion.dev/contact"><img alt="Contact" src="https://img.shields.io/badge/LET'S_CONNECT-152a40?style=for-the-badge&color=77d9c7" /></a>
 
-I build **mobile-first, practical software**—from offline-first Android experiences to database-backed workflows—with an emphasis on understandable architecture, reliability, and useful product design.
+<br />
 
-**[Portfolio & case studies](https://joshuasalvacion.dev)** · **[Projects](https://joshuasalvacion.dev/projects)** · **[Résumé](https://joshuasalvacion.dev/resume)** · **[LinkedIn](https://www.linkedin.com/in/joshua-salvacion/)** · **[Contact](https://joshuasalvacion.dev/contact)**
+<a href="#about"><kbd> 01 · ABOUT </kbd></a> &nbsp; <a href="#builds"><kbd> 02 · BUILDS </kbd></a> &nbsp; <a href="#toolkit"><kbd> 03 · TOOLKIT </kbd></a> &nbsp; <a href="#milestones"><kbd> 04 · MILESTONES </kbd></a> &nbsp; <a href="#connect"><kbd> 05 · CONNECT </kbd></a>
 
 </div>
 
 ---
 
-### What I build
+<a id="about"></a>
 
-| 📱 Mobile experiences | ⚙️ Backend & data | 🧪 Engineering discipline |
-| :--- | :--- | :--- |
-| Native Android with **Kotlin + Jetpack Compose**; cross-platform apps with **React Native + Expo** | **FastAPI**, **NestJS**, **Express**, **PostgreSQL**, **SQLite/Room**, and **Prisma** | **Unit, integration, and device tests**, browser checks, CI, privacy boundaries, and offline-first behavior |
+### 01 / About the builder
 
-**Currently focused on:** Android architecture, reliable APIs, testable workflows, and software engineering internship opportunities.
+I'm **Joshua Salvacion**, a software engineering student who enjoys translating real problems into working applications. My main focus is **native Android development with Kotlin and Jetpack Compose**, supported by experience with **React Native, backend APIs, databases, and automated testing**.
 
-### Selected work
+The ideas I gravitate toward have something in common: they should remain useful under real-world constraints—limited connectivity, local data, clear permissions, and understandable behavior.
 
-Each project has a detailed case study with implementation context and scope. Some source repositories are private; their portfolio case studies are still available.
-
-| Project | Focus | Explore |
-| :--- | :--- | :--- |
-| **PCOSina** | Offline-first Android wellness and meal planning; Kotlin/Compose, FastAPI, deterministic constraints and optional ML-assisted ranking | [Case study](https://joshuasalvacion.dev/projects/pcosina) · [Source](https://github.com/slvcn-jsh/PCOSina) |
-| **Barion** | React Native/Expo study app; offline SQLite, spaced repetition and optional AI-assisted learning workflows | [Case study](https://joshuasalvacion.dev/projects/barion) · [Source](https://github.com/slvcn-jsh/barion) |
-| **FreshKeep** | Native Android household inventory; Room transactions, independent stock batches and offline operation | [Case study](https://joshuasalvacion.dev/projects/freshkeep) |
-| **FocusLoop** | Native Android digital wellbeing; focus sessions, on-device usage insights and privacy-conscious local data | [Case study](https://joshuasalvacion.dev/projects/focusloop) |
-| **ResolveOps** | Locally tested IT service desk prototype; authenticated tickets, permissions and PostgreSQL-backed history | [Case study](https://joshuasalvacion.dev/projects/resolveops) |
-| **Procura** | Early-stage procurement prototype; purchase requests, manager decisions and role-aware workflows | [Case study](https://joshuasalvacion.dev/projects/procura) |
+> **My approach:** design around the user's problem, build the smallest meaningful workflow, and document what the software *actually* does.
 
 <details>
-<summary><strong>🔎 Explore the engineering decisions behind these projects</strong></summary>
+<summary><strong>↳ What I'm learning and working toward</strong></summary>
 
-<br>
-
-- **Offline-first by design:** PCOSina, FreshKeep and FocusLoop explore useful functionality even when connectivity is limited or unnecessary.
-- **Explicit system boundaries:** PCOSina keeps hard planning constraints deterministic; optional ML assists rather than overrides those constraints.
-- **Data integrity:** FreshKeep uses local transactions for inventory operations; ResolveOps and Procura explore controlled, database-backed state changes.
-- **Testing with context:** My projects include combinations of unit, integration, device and browser checks. Test evidence is documented per project; prototypes are not presented as production deployments.
-
-For screenshots, architecture, implementation notes and limitations, visit the [six project case studies](https://joshuasalvacion.dev/projects).
+- **Mobile engineering:** native Android UI, state, persistence, device testing, and offline-first architecture.
+- **Backend reliability:** APIs, authentication boundaries, PostgreSQL workflows, validation, and migrations.
+- **Product thinking:** turning research and prototypes into implementable features with clear limitations.
+- **Next chapter:** software engineering internship opportunities, especially Android/mobile development.
 
 </details>
 
-### Technical toolkit
+<a id="builds"></a>
 
-| Area | Technologies |
-| :--- | :--- |
-| **Languages** | Kotlin · Python · TypeScript · SQL · Java (studied) |
-| **Android & mobile** | Jetpack Compose · Android Studio · React Native · Expo · Room · DataStore |
-| **Web & services** | React · Vite · FastAPI · NestJS · Express · REST APIs |
-| **Data & optimization** | PostgreSQL · SQLite · Prisma · Firebase/Supabase integrations · OR-Tools |
-| **Development & quality** | Git · GitHub · Docker · JUnit · pytest · Jest · Vitest · Playwright |
+### 02 / Selected builds
+
+**Three primary projects** — also featured in my pinned repositories.
+
+<p align="center">
+  <a href="https://github.com/slvcn-jsh/PCOSina" title="Explore PCOSina source"><img src="./assets/project-pcosina.svg" width="49%" alt="PCOSina illustrated card: offline-first Android meal planner, Kotlin, FastAPI, deterministic constraints." /></a>
+  <a href="https://github.com/slvcn-jsh/barion" title="Explore Barion source"><img src="./assets/project-barion.svg" width="49%" alt="Barion illustrated card: React Native flashcard learning app, Expo and SQLite." /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/slvcn-jsh/FocusLoop" title="Explore FocusLoop source"><img src="./assets/project-focusloop.svg" width="49%" alt="FocusLoop illustrated card: native Android wellbeing and focus sessions with on-device data." /></a>
+  <a href="https://joshuasalvacion.dev/projects/freshkeep" title="Explore FreshKeep case study"><img src="./assets/project-freshkeep.svg" width="49%" alt="FreshKeep illustrated card: offline-first Android household inventory and batch tracking." /></a>
+</p>
+
+**More systems and workflows** — explored through the portfolio case studies.
+
+<p align="center">
+  <a href="https://joshuasalvacion.dev/projects/resolveops" title="Explore ResolveOps case study"><img src="./assets/project-resolveops.svg" width="49%" alt="ResolveOps illustrated card: locally tested IT service desk and ticket workflow prototype." /></a>
+  <a href="https://joshuasalvacion.dev/projects/procura" title="Explore Procura case study"><img src="./assets/project-procura.svg" width="49%" alt="Procura illustrated card: early-stage procurement requests and approvals prototype." /></a>
+</p>
+
+<div align="center">
+  <sub>Original conceptual illustrations, not live application screenshots. View the case studies for real project evidence, implementation details, and limitations.</sub>
+</div>
 
 <details>
-<summary><strong>🏅 Education, recognition and activities</strong></summary>
+<summary><strong>🔍 Open the engineering field notes — what makes each project interesting?</strong></summary>
 
-<br>
+| Project | Engineering focus | Project evidence |
+| :-- | :-- | :-- |
+| **PCOSina** | Kotlin/Compose Android client; FastAPI services; rule-based and OR-Tools meal planning with optional ML-assisted ranking and deterministic guardrails | [Case study](https://joshuasalvacion.dev/projects/pcosina) |
+| **Barion** | React Native/Expo learning workflows; offline SQLite persistence, spaced repetition, and optional Python-based AI gateway | [Case study](https://joshuasalvacion.dev/projects/barion) |
+| **FocusLoop** | Android focus sessions, usage access boundaries, Room persistence, and privacy-conscious local data | [Case study](https://joshuasalvacion.dev/projects/focusloop) |
+| **FreshKeep** | Local inventory transactions, independent batches, quantity adjustments, and Android device testing | [Case study](https://joshuasalvacion.dev/projects/freshkeep) |
+| **ResolveOps** | Authenticated service-desk tickets, permissions, lifecycle safeguards, and database-backed history; locally tested prototype | [Case study](https://joshuasalvacion.dev/projects/resolveops) |
+| **Procura** | Roles, sessions, purchase requests, submissions, and manager decisions; early-stage prototype | [Case study](https://joshuasalvacion.dev/projects/procura) |
 
-- **Education:** BS Computer Science, major in Software Engineering — FEU Institute of Technology (2023–present).
-- **Champion:** FEU Tech Design Thinking Summit and ITAM Design Jam (March 2025).
-- **Certification:** IT Specialist — Python, Certiport (2025).
-- **Training:** Positioning the Autonomous Enterprise (2026); AI Prompt Design Bootcamp (2025).
-- **Activities:** HACKathon 2025 at UP Manila; BASE BUILD Global Buildathon 2025 at Adamson University.
-
-[More about me](https://joshuasalvacion.dev/about) · [Skills](https://joshuasalvacion.dev/skills) · [Résumé](https://joshuasalvacion.dev/resume)
+**Source visibility:** PCOSina, Barion, and FocusLoop have public repositories. The other three projects are documented in portfolio case studies; source access is not implied.
 
 </details>
 
-### Let's connect
+<a id="toolkit"></a>
 
-I'm interested in **software engineering internships**, especially opportunities involving **Android/mobile applications** and the backend systems that support them.
+### 03 / The toolkit
 
-**[Visit my portfolio](https://joshuasalvacion.dev)** · **[Connect on LinkedIn](https://www.linkedin.com/in/joshua-salvacion/)** · **[Get in touch](https://joshuasalvacion.dev/contact)**
+<img src="./assets/toolkit.svg" width="100%" alt="Technical toolkit infographic grouped into mobile development, services and data, and testing tools." />
 
-<sub>Built around real projects, documented decisions, and an ongoing learning process. Project status and limitations are described in the linked case studies.</sub>
+<div align="center">
+
+**Languages:** `Kotlin` · `Python` · `TypeScript` · `SQL` · `Java (studied)`
+
+**Practices:** Offline-first design · REST APIs · Local persistence · Automated tests · CI checks
+
+</div>
+
+<details>
+<summary><strong>⚙️ See how the pieces fit together</strong></summary>
+
+| Layer | Examples from my work |
+| :-- | :-- |
+| **Interface** | Jetpack Compose for native Android; React Native/Expo for cross-platform mobile; React for web |
+| **Application logic** | Kotlin domain layers; Python FastAPI services; NestJS/Express workflow logic |
+| **Persistence** | Room + SQLite for local-first apps; PostgreSQL + Prisma for transactional web systems |
+| **Verification** | JUnit/Android instrumentation, pytest, Jest, Vitest, Playwright and documented checks |
+
+I value tools for the problems they solve—not for how many logos fit on a page.
+
+</details>
+
+<a id="milestones"></a>
+
+### 04 / Milestones, recognition & learning
+
+<img src="./assets/milestones.svg" width="100%" alt="Milestone cards: FEU Tech Computer Science, 2025 Design Thinking champion, Python certification, and technical events." />
+
+- 🏆 **Champion** — FEU Tech Design Thinking Summit and ITAM Design Jam, March 2025.
+- 📜 **IT Specialist — Python** — Certiport, 2025.
+- 🧭 **Learning beyond coursework** — HACKathon 2025 at UP Manila and BASE BUILD Global Buildathon 2025 at Adamson University.
+
+<details>
+<summary><strong>📖 More education, training and background</strong></summary>
+
+- **BS Computer Science, major in Software Engineering** — FEU Institute of Technology (August 2023–present).
+- **Positioning the Autonomous Enterprise** — training, 2026.
+- **AI Prompt Design Bootcamp** — National AI Prompt Design Challenge Philippines, 2025.
+
+Explore my [about page](https://joshuasalvacion.dev/about), [skills](https://joshuasalvacion.dev/skills), or [résumé](https://joshuasalvacion.dev/resume) for more context.
+
+</details>
+
+<a id="connect"></a>
+
+### 05 / What's next?
+
+<a href="https://joshuasalvacion.dev"><img src="./assets/footer.svg" width="100%" alt="Engineering studio footer: Good software starts with a clear problem." /></a>
+
+<div align="center">
+
+I'm interested in **software engineering internships**, particularly **Android/mobile development** and the backend systems that support real applications.
+
+**[Explore my case studies](https://joshuasalvacion.dev/projects)** · **[Connect on LinkedIn](https://www.linkedin.com/in/joshua-salvacion/)** · **[Contact me](https://joshuasalvacion.dev/contact)**
+
+<sub>Designed as a readable, low-dependency GitHub profile. Project graphics illustrate concepts; they are not screenshots, benchmarks, release claims, or live demos.</sub>
+
+<br />
+
+<a href="#top">↑ Back to top</a>
+
+</div>
