@@ -110,11 +110,13 @@ The ideas I gravitate toward have something in common: they should remain useful
 <p align="center">
   <a href="https://app.codecov.io/gh/slvcn-jsh/PCOSina/tree/dev" title="PCOSina backend test coverage on the active dev branch"><img src="https://codecov.io/gh/slvcn-jsh/PCOSina/branch/dev/graph/badge.svg?flag=backend" alt="Codecov coverage badge for PCOSina Python backend on dev" /></a>
   &nbsp;
+  <a href="https://codescene.io/projects/88166" title="CodeScene average code health across the JOSH multi-repository project"><img src="https://codescene.io/projects/88166/status-badges/average-code-health" alt="CodeScene average code health across multiple repositories" /></a>
+  &nbsp;
   <a href="https://github.com/slvcn-jsh/PCOSina/actions/workflows/codecov-backend.yml" title="PCOSina backend coverage workflow"><img src="https://img.shields.io/badge/PCOSina-backend%20CI-152a40?style=flat&logo=githubactions&logoColor=white" alt="PCOSina backend CI workflow" /></a>
 </p>
 
 <div align="center">
-  <sub>Live coverage data is from <a href="https://github.com/slvcn-jsh/PCOSina/tree/dev">PCOSina's Python backend on <code>dev</code></a>, not the Kotlin Android client or the full repository. The CI link opens the test workflow; the badge reflects Codecov's published report.</sub>
+  <sub>Codecov reports <a href="https://github.com/slvcn-jsh/PCOSina/tree/dev">PCOSina Python backend coverage on <code>dev</code></a> (not Android coverage). CodeScene reports average code health for the separate <strong>JOSH multi-repository analysis</strong>; the badge is public, while detailed analysis may require access. The CI link opens the backend test workflow.</sub>
 </div>
 
 <a id="toolkit"></a>
