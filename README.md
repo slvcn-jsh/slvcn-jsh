@@ -15,7 +15,7 @@
 
 <br />
 
-<a href="#about"><kbd> 01 · ABOUT </kbd></a> &nbsp; <a href="#builds"><kbd> 02 · BUILDS </kbd></a> &nbsp; <a href="#toolkit"><kbd> 03 · TOOLKIT </kbd></a> &nbsp; <a href="#milestones"><kbd> 04 · MILESTONES </kbd></a> &nbsp; <a href="#connect"><kbd> 05 · CONNECT </kbd></a>
+<a href="#about"><kbd> 01 · ABOUT </kbd></a> &nbsp; <a href="#builds"><kbd> 02 · BUILDS </kbd></a> &nbsp; <a href="#toolkit"><kbd> 03 · TOOLKIT </kbd></a> &nbsp; <a href="#milestones"><kbd> 04 · MILESTONES </kbd></a> &nbsp; <a href="#connect"><kbd> 06 · CONNECT </kbd></a>
 
 </div>
 
@@ -154,9 +154,15 @@ Explore my [about page](https://joshuasalvacion.dev/about), [skills](https://jos
 
 </details>
 
+### 05 / Public development activity
+
+<img src="./assets/public-activity.svg" width="100%" alt="Automatically refreshed overview of the most recent public GitHub events. Initial card shows pending refresh until first workflow run." />
+
+<sub>Generated from GitHub's public events feed using a [weekly GitHub Actions workflow](.github/workflows/public-activity.yml). Event counts are not commit counts, private activity, or a measure of code quality.</sub>
+
 <a id="connect"></a>
 
-### 05 / What's next?
+### 06 / What's next?
 
 <a href="https://joshuasalvacion.dev"><img src="./assets/footer.svg" width="100%" alt="Engineering studio footer: Good software starts with a clear problem." /></a>
 
